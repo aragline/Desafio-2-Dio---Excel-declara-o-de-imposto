@@ -5,5 +5,5 @@ Durante a aula, foi feito no excel um organizador que ajudará a reunir informa�
 
 Contêm: 4 telas: Títular: dados da pessoa física
                  Informes: dados atuais de cada banco
-                 Notas: notas bancárias ou extrato  de holetires
+                 Notas: notas bancárias ou extrato  de holerites
                  Dedutíveis: despesas dedutíveis - registrar gastos que podem ser usados para dedução no IR.
